@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
-
+// test
 public class Main {
     enum JndiManagerVersion {
         NOT_FOUND,
